@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@utility btn {
+ @apply p-2 bg-cyan-950 text-white hover:bg-black border-2 border-cyan-950 rounded-2xl mx-2;
+}
+
+@theme{
+       /* --spacing-3: 100px; */
+    
+}
